@@ -1,3 +1,13 @@
+body {
+    background-color: cornflowerblue;
+}
+
+.table-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5rem;
+}
+
 table {
     border-collapse: collapse;
 }
